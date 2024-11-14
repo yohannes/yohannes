@@ -1,4 +1,4 @@
-Hello! I am currently a Technical Writer at [Traveloka](https://traveloka.com). My responsibilities are in planning, executing, & delivering new initiatives to standardize various engineering processes through documentation efforts in order to provide clarity as well as understanding for engineers, analysts, scientists, in addition to business stakeholders.
+I am currently a technical writer at [Traveloka](https://traveloka.com). My responsibilities are in planning, executing, and delivering technical documentation-related initiatives to standardize cross-cutting technical processes in order to provide clarity, availability, & discoverability for engineers and business stakeholders across the organization. The deliverables of my role to date can be referred to in the Experience section below. 
 
 Previously, I was a project coordinator at [Mirai Technologies](https://mirai.co.id/). We were a software house that focused on mobile application development catered towards startups. I managed four teams: iOS, Android, Hybrid, & Backend (plus an UI/UX designer). 
 
